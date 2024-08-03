@@ -1,0 +1,9 @@
+body{
+    text-align: center; 
+     background-image:linear-gradient(grey,white);
+   margin-left:30%;
+   margin-right:50%;
+   }
+   fieldset{
+   background-image:linear-gradient(pink,violet);
+   }
